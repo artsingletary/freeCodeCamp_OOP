@@ -23,6 +23,9 @@ int main()
     employee1.Company = "TSA";
     employee1.Age = 54;
     employee1.IntroduceYourself();
+    employee1.IntroduceYourself();
+    employee1.IntroduceYourself();
+    employee1.IntroduceYourself();
 }
 
 
